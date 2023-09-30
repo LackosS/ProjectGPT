@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Supi+T6xaZXXc75egVagzMUnxaFTZXU8+qR723i/LPSQmrJzvGdgW3i/dgUrUIPTVG+9DUbRYJ3vfmvxat9J4g==",
+  "dgSpecHash": "WMzHrsBXKGZszVK8mlxPCo1TA1IAoEUXANb2ZiDKNqJn1mNzS3WWxorp6/Oja/Oos7EDxmXU8yiToPRWppODjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Csoki\\Desktop\\ProjectGPT\\ProjectGPT.Persistence\\ProjectGPT.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Csoki\\Downloads\\ProjectGPT\\ProjectGPT.Persistence\\ProjectGPT.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Csoki\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Csoki\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

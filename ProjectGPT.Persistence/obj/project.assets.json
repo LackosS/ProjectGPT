@@ -2704,11 +2704,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Csoki\\Desktop\\ProjectGPT\\ProjectGPT.Persistence\\ProjectGPT.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Csoki\\Downloads\\ProjectGPT\\ProjectGPT.Persistence\\ProjectGPT.Persistence.csproj",
       "projectName": "ProjectGPT.Persistence",
-      "projectPath": "C:\\Users\\Csoki\\Desktop\\ProjectGPT\\ProjectGPT.Persistence\\ProjectGPT.Persistence.csproj",
+      "projectPath": "C:\\Users\\Csoki\\Downloads\\ProjectGPT\\ProjectGPT.Persistence\\ProjectGPT.Persistence.csproj",
       "packagesPath": "C:\\Users\\Csoki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Csoki\\Desktop\\ProjectGPT\\ProjectGPT.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\Csoki\\Downloads\\ProjectGPT\\ProjectGPT.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Csoki\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -18,7 +18,7 @@ export default function Chat({currentConversation,setCurrentConversation,isLoade
     }, [currentConversation])
     
     return (
-        <Box ref={chatContainerRef} component='div' sx={{ marginTop: '10px', maxHeight: '1050px', overflowY:'auto' }}>
+        <Box ref={chatContainerRef} component='div' sx={{ marginTop: '10px', maxHeight: '90vh', overflowY:'auto' }}>
             { currentConversation && currentConversation.map((conversation, index) => {
                 const [key, value] = Object.entries(conversation)
                 if( !key || !value ) return
