@@ -9,7 +9,7 @@ import { loadConversation } from '../src/API/api';
 
 export default function App() {
     const [currentConversation, setCurrentConversation] = useState([])
-    const [isLoaded, setLoaded] = useState(false)
+    const [isLoaded, setLoaded] = useState(true)
    const appStyle = {
        backgroundColor: 'black',
        minHeight: '90vh',
